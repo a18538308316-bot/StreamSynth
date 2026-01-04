@@ -1,5 +1,4 @@
-<h1 align="center"> RE </h1>
-<h3 align="center"> Exploration via Reasoning Estimator </h3>
+<h1 align="center"> StreamSynth </h1>
 
 
 
